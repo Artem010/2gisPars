@@ -1,0 +1,18 @@
+[INFO] Successful phone 79953898182
+[INFO] Successful phone 79655372097
+[INFO] Successful phone 79953888182
+[INFO] Successful phone 79995695556
+[ALERT] Does not exist phone 73432130332
+[INFO] Successful phone 79126370646
+[INFO] Successful phone 79995655605
+[INFO] Successful phone 79122589725
+[INFO] Successful phone 79090048440
+[INFO] Successful phone 79222223398
+[INFO] Successful phone 79226179902
+[ALERT] Does not exist phone 73432885563
+[INFO] Successful phone 79222925175
+[INFO] Successful phone 79222962840
+[INFO] Successful phone 79028778131
+[INFO] Successful phone 79827275716
+[INFO] Successful phone 79014144278
+[INFO] Successful phone 79041760967
